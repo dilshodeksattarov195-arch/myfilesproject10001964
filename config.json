@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricseonnect",
+        "uuid": 14262568,
+        "checksum": "rmbr6f"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
